@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebExample", "WebExample\WebExample.csproj", "{7AB67283-0252-447C-9B22-02E8A3895CFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APILimitatorLib", "APILimitatorLib\APILimitatorLib.csproj", "{5DB7AD0C-A032-40C6-80D2-CCA462B49524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AB67283-0252-447C-9B22-02E8A3895CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB67283-0252-447C-9B22-02E8A3895CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB67283-0252-447C-9B22-02E8A3895CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB67283-0252-447C-9B22-02E8A3895CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB7AD0C-A032-40C6-80D2-CCA462B49524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB7AD0C-A032-40C6-80D2-CCA462B49524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB7AD0C-A032-40C6-80D2-CCA462B49524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB7AD0C-A032-40C6-80D2-CCA462B49524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40F078D9-05E4-4F95-A020-FBA884291323}
+	EndGlobalSection
+EndGlobal
